@@ -6,7 +6,7 @@ This repo aims at documenting how to run GNU/Linux on a [Google Pixel C](https:/
 ## Introduction
 ### What is the Google Pixel C?
 The Pixel C is a 10.2 inch Android tablet, made by Google, which was released on December 8, 2015.  
-It didn't had much success apparently, but its hardware is definitively still a flagship killer.  
+It didn't had much success apparently, but its hardware is definitely still a flagship killer.
 
 Unfortunately it runs Android, which doesn't seem to be really a productive / development oriented operating system, therefore we decided to port a Linux distro to it, to make it more productive and fast.
 
